@@ -54,8 +54,7 @@ Key takeaways from the AI-simulated dashboard:
 ## ✅ How to Use
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/ecommerce-dashboard.git
+
 Open the .pbix file in Microsoft Power BI Desktop.
 
 Explore, filter, and edit the dashboard as needed.
